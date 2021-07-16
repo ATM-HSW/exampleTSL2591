@@ -1,0 +1,6 @@
+[submodule "tsl2591/libTSL2591"]
+	path = tsl2591/libTSL2591
+	url = git@github.com:ATM-HSW/libTSL2591.git
+[submodule "tsl2591_int/libTSL2591"]
+	path = tsl2591_int/libTSL2591
+	url = git@github.com:ATM-HSW/libTSL2591.git

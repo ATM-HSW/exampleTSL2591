@@ -1,0 +1,10 @@
+*/BUILD/
+*/DebugConfig/
+*.scvd
+*/GettingStarted.html
+*.bak
+*/mbed_config.h
+*/.mbed
+*/*.uvg*
+*/*.uvo*
+*/*.uvp*
